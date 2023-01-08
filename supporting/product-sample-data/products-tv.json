@@ -1,0 +1,198 @@
+[
+  {
+    "title": "Het is al geruime tijd een 01b",
+    "desc": "Matagal na nating alam na nakukuha ang atensyon ng nagbabasa ang nababasa na nilalaman ng pahina kapag tinitignan ang pagkakaayos. Ang punto ng paggamit ng Lorem Ipsum ay ito ay may humigit-kumulang na normal na distribusyion ng mga lettra, kesa sa paggamit ng 'Dito ang nilalaman, dito ang nilalaman', pinamumuka nitong nababasa. Maraming desktop publishing packages at web page editors ang gumagamit na ngayong ng Lorem Ipsum bilang regular na modelo ng nilalaman, at ang pag-search ng 'lorem ipsum' ay mag bubunyag ng maraming web sites na nasa kabataan pa lamang nila. Ang iba't-ibang mga bersyon nito ay nagbago paglipas ng mga taon, aksidente minsan, minsan sadya (nilagyan ng mga katatawanan at iba pa).",
+    "img": "1.jpg",
+    "category": "TV and Audio",
+    "brand": "brand-04",
+    "size": [],
+    "color": [],
+    "price": 100.00,
+    "net": 100.00,
+    "discount": 0,
+    "type": {
+      "new": true,
+      "bs": true
+    },
+    "details": [
+      { "id": 1, "point": "Matagal na nating alam na nakukuha ang atensyon ng nagbabasa 01" },
+      { "id": 2, "point": "Matagal na nating alam na nakukuha ang atensyon ng nagbabasa 02" },
+      { "id": 3, "point": "Matagal na nating alam na nakukuha ang atensyon ng nagbabasa 03" },
+      { "id": 4, "point": "Matagal na nating alam na nakukuha ang atensyon ng nagbabasa 04" },
+      { "id": 5, "point": "Matagal na nating alam na nakukuha ang atensyon ng nagbabasa 05" },
+      { "id": 6, "point": "Matagal na nating alam na nakukuha ang atensyon ng nagbabasa 06" },
+      { "id": 7, "point": "Matagal na nating alam na nakukuha ang atensyon ng nagbabasa 07" },
+      { "id": 8, "point": "Matagal na nating alam na nakukuha ang atensyon ng nagbabasa 08" }
+    ],
+    "inStock": true,
+    "vendorId": "63b5543d22f54a6c7afdfe50"
+  },
+  {
+    "title": "Het is al geruime tijd een 02b",
+    "desc": "Matagal na nating alam na nakukuha ang atensyon ng nagbabasa ang nababasa na nilalaman ng pahina kapag tinitignan ang pagkakaayos. Ang punto ng paggamit ng Lorem Ipsum ay ito ay may humigit-kumulang na normal na distribusyion ng mga lettra, kesa sa paggamit ng 'Dito ang nilalaman, dito ang nilalaman', pinamumuka nitong nababasa. Maraming desktop publishing packages at web page editors ang gumagamit na ngayong ng Lorem Ipsum bilang regular na modelo ng nilalaman, at ang pag-search ng 'lorem ipsum' ay mag bubunyag ng maraming web sites na nasa kabataan pa lamang nila. Ang iba't-ibang mga bersyon nito ay nagbago paglipas ng mga taon, aksidente minsan, minsan sadya (nilagyan ng mga katatawanan at iba pa).",
+    "img": "2.jpg",
+    "category": "TV and Audio",
+    "brand": "brand-04",
+    "size": [],
+    "color": [],
+    "price": 200.00,
+    "net": 186.00,
+    "discount": -7,
+    "type": {
+      "new": true,
+      "bs": true
+    },
+    "details": [
+      { "id": 1, "point": "Matagal na nating alam na nakukuha ang atensyon ng nagbabasa 01" },
+      { "id": 2, "point": "Matagal na nating alam na nakukuha ang atensyon ng nagbabasa 02" },
+      { "id": 3, "point": "Matagal na nating alam na nakukuha ang atensyon ng nagbabasa 03" },
+      { "id": 4, "point": "Matagal na nating alam na nakukuha ang atensyon ng nagbabasa 04" },
+      { "id": 5, "point": "Matagal na nating alam na nakukuha ang atensyon ng nagbabasa 05" },
+      { "id": 6, "point": "Matagal na nating alam na nakukuha ang atensyon ng nagbabasa 06" },
+      { "id": 7, "point": "Matagal na nating alam na nakukuha ang atensyon ng nagbabasa 07" },
+      { "id": 8, "point": "Matagal na nating alam na nakukuha ang atensyon ng nagbabasa 08" }
+    ],
+    "inStock": true,
+    "vendorId": "63b5543d22f54a6c7afdfe50"
+  },
+  {
+    "title": "Het is al geruime tijd een 03b",
+    "desc": "Matagal na nating alam na nakukuha ang atensyon ng nagbabasa ang nababasa na nilalaman ng pahina kapag tinitignan ang pagkakaayos. Ang punto ng paggamit ng Lorem Ipsum ay ito ay may humigit-kumulang na normal na distribusyion ng mga lettra, kesa sa paggamit ng 'Dito ang nilalaman, dito ang nilalaman', pinamumuka nitong nababasa. Maraming desktop publishing packages at web page editors ang gumagamit na ngayong ng Lorem Ipsum bilang regular na modelo ng nilalaman, at ang pag-search ng 'lorem ipsum' ay mag bubunyag ng maraming web sites na nasa kabataan pa lamang nila. Ang iba't-ibang mga bersyon nito ay nagbago paglipas ng mga taon, aksidente minsan, minsan sadya (nilagyan ng mga katatawanan at iba pa).",
+    "img": "3.jpg",
+    "category": "TV and Audio",
+    "brand": "brand-04",
+    "size": [],
+    "color": [],
+    "price": 300.00,
+    "net": 300.00,
+    "discount": 0,
+    "type": {
+      "new": true,
+      "bs": true
+    },
+    "details": [
+      { "id": 1, "point": "Matagal na nating alam na nakukuha ang atensyon ng nagbabasa 01" },
+      { "id": 2, "point": "Matagal na nating alam na nakukuha ang atensyon ng nagbabasa 02" },
+      { "id": 3, "point": "Matagal na nating alam na nakukuha ang atensyon ng nagbabasa 03" },
+      { "id": 4, "point": "Matagal na nating alam na nakukuha ang atensyon ng nagbabasa 04" },
+      { "id": 5, "point": "Matagal na nating alam na nakukuha ang atensyon ng nagbabasa 05" },
+      { "id": 6, "point": "Matagal na nating alam na nakukuha ang atensyon ng nagbabasa 06" },
+      { "id": 7, "point": "Matagal na nating alam na nakukuha ang atensyon ng nagbabasa 07" },
+      { "id": 8, "point": "Matagal na nating alam na nakukuha ang atensyon ng nagbabasa 08" }
+    ],
+    "inStock": true,
+    "vendorId": "63b5543d22f54a6c7afdfe50"
+  },
+  {
+    "title": "Het is al geruime tijd een 04b",
+    "desc": "Matagal na nating alam na nakukuha ang atensyon ng nagbabasa ang nababasa na nilalaman ng pahina kapag tinitignan ang pagkakaayos. Ang punto ng paggamit ng Lorem Ipsum ay ito ay may humigit-kumulang na normal na distribusyion ng mga lettra, kesa sa paggamit ng 'Dito ang nilalaman, dito ang nilalaman', pinamumuka nitong nababasa. Maraming desktop publishing packages at web page editors ang gumagamit na ngayong ng Lorem Ipsum bilang regular na modelo ng nilalaman, at ang pag-search ng 'lorem ipsum' ay mag bubunyag ng maraming web sites na nasa kabataan pa lamang nila. Ang iba't-ibang mga bersyon nito ay nagbago paglipas ng mga taon, aksidente minsan, minsan sadya (nilagyan ng mga katatawanan at iba pa).",
+    "img": "4.jpg",
+    "category": "TV and Audio",
+    "brand": "brand-04",
+    "size": [],
+    "color": [],
+    "price": 400.00,
+    "net": 400.00,
+    "discount": 0,
+    "type": {
+      "new": true,
+      "bs": true
+    },
+    "details": [
+      { "id": 1, "point": "Matagal na nating alam na nakukuha ang atensyon ng nagbabasa 01" },
+      { "id": 2, "point": "Matagal na nating alam na nakukuha ang atensyon ng nagbabasa 02" },
+      { "id": 3, "point": "Matagal na nating alam na nakukuha ang atensyon ng nagbabasa 03" },
+      { "id": 4, "point": "Matagal na nating alam na nakukuha ang atensyon ng nagbabasa 04" },
+      { "id": 5, "point": "Matagal na nating alam na nakukuha ang atensyon ng nagbabasa 05" },
+      { "id": 6, "point": "Matagal na nating alam na nakukuha ang atensyon ng nagbabasa 06" },
+      { "id": 7, "point": "Matagal na nating alam na nakukuha ang atensyon ng nagbabasa 07" },
+      { "id": 8, "point": "Matagal na nating alam na nakukuha ang atensyon ng nagbabasa 08" }
+    ],
+    "inStock": true,
+    "vendorId": "63b5543d22f54a6c7afdfe50"
+  },
+  {
+    "title": "Het is al geruime tijd een 05b",
+    "desc": "Matagal na nating alam na nakukuha ang atensyon ng nagbabasa ang nababasa na nilalaman ng pahina kapag tinitignan ang pagkakaayos. Ang punto ng paggamit ng Lorem Ipsum ay ito ay may humigit-kumulang na normal na distribusyion ng mga lettra, kesa sa paggamit ng 'Dito ang nilalaman, dito ang nilalaman', pinamumuka nitong nababasa. Maraming desktop publishing packages at web page editors ang gumagamit na ngayong ng Lorem Ipsum bilang regular na modelo ng nilalaman, at ang pag-search ng 'lorem ipsum' ay mag bubunyag ng maraming web sites na nasa kabataan pa lamang nila. Ang iba't-ibang mga bersyon nito ay nagbago paglipas ng mga taon, aksidente minsan, minsan sadya (nilagyan ng mga katatawanan at iba pa).",
+    "img": "5.jpg",
+    "category": "TV and Audio",
+    "brand": "brand-03",
+    "size": [],
+    "color": [],
+    "price": 700.00,
+    "net": 700.00,
+    "discount": 0,
+    "type": {
+      "new": true,
+      "bs": true
+    },
+    "details": [
+      { "id": 1, "point": "Matagal na nating alam na nakukuha ang atensyon ng nagbabasa 01" },
+      { "id": 2, "point": "Matagal na nating alam na nakukuha ang atensyon ng nagbabasa 02" },
+      { "id": 3, "point": "Matagal na nating alam na nakukuha ang atensyon ng nagbabasa 03" },
+      { "id": 4, "point": "Matagal na nating alam na nakukuha ang atensyon ng nagbabasa 04" },
+      { "id": 5, "point": "Matagal na nating alam na nakukuha ang atensyon ng nagbabasa 05" },
+      { "id": 6, "point": "Matagal na nating alam na nakukuha ang atensyon ng nagbabasa 06" },
+      { "id": 7, "point": "Matagal na nating alam na nakukuha ang atensyon ng nagbabasa 07" },
+      { "id": 8, "point": "Matagal na nating alam na nakukuha ang atensyon ng nagbabasa 08" }
+    ],
+    "inStock": true,
+    "vendorId": "63b5543d22f54a6c7afdfe50"
+  },
+  {
+    "title": "Het is al geruime tijd een 06b",
+    "desc": "Matagal na nating alam na nakukuha ang atensyon ng nagbabasa ang nababasa na nilalaman ng pahina kapag tinitignan ang pagkakaayos. Ang punto ng paggamit ng Lorem Ipsum ay ito ay may humigit-kumulang na normal na distribusyion ng mga lettra, kesa sa paggamit ng 'Dito ang nilalaman, dito ang nilalaman', pinamumuka nitong nababasa. Maraming desktop publishing packages at web page editors ang gumagamit na ngayong ng Lorem Ipsum bilang regular na modelo ng nilalaman, at ang pag-search ng 'lorem ipsum' ay mag bubunyag ng maraming web sites na nasa kabataan pa lamang nila. Ang iba't-ibang mga bersyon nito ay nagbago paglipas ng mga taon, aksidente minsan, minsan sadya (nilagyan ng mga katatawanan at iba pa).",
+    "img": "6.jpg",
+    "category": "TV and Audio",
+    "brand": "brand-03",
+    "size": [],
+    "color": [],
+    "price": 600.00,
+    "net": 600.00,
+    "discount": 0,
+    "type": {
+      "new": true,
+      "bs": false
+    },
+    "details": [
+      { "id": 1, "point": "Matagal na nating alam na nakukuha ang atensyon ng nagbabasa 01" },
+      { "id": 2, "point": "Matagal na nating alam na nakukuha ang atensyon ng nagbabasa 02" },
+      { "id": 3, "point": "Matagal na nating alam na nakukuha ang atensyon ng nagbabasa 03" },
+      { "id": 4, "point": "Matagal na nating alam na nakukuha ang atensyon ng nagbabasa 04" },
+      { "id": 5, "point": "Matagal na nating alam na nakukuha ang atensyon ng nagbabasa 05" },
+      { "id": 6, "point": "Matagal na nating alam na nakukuha ang atensyon ng nagbabasa 06" },
+      { "id": 7, "point": "Matagal na nating alam na nakukuha ang atensyon ng nagbabasa 07" },
+      { "id": 8, "point": "Matagal na nating alam na nakukuha ang atensyon ng nagbabasa 08" }
+    ],
+    "inStock": true,
+    "vendorId": "63b5543d22f54a6c7afdfe50"
+  },
+  {
+    "title": "Het is al geruime tijd een 07b",
+    "desc": "Matagal na nating alam na nakukuha ang atensyon ng nagbabasa ang nababasa na nilalaman ng pahina kapag tinitignan ang pagkakaayos. Ang punto ng paggamit ng Lorem Ipsum ay ito ay may humigit-kumulang na normal na distribusyion ng mga lettra, kesa sa paggamit ng 'Dito ang nilalaman, dito ang nilalaman', pinamumuka nitong nababasa. Maraming desktop publishing packages at web page editors ang gumagamit na ngayong ng Lorem Ipsum bilang regular na modelo ng nilalaman, at ang pag-search ng 'lorem ipsum' ay mag bubunyag ng maraming web sites na nasa kabataan pa lamang nila. Ang iba't-ibang mga bersyon nito ay nagbago paglipas ng mga taon, aksidente minsan, minsan sadya (nilagyan ng mga katatawanan at iba pa).",
+    "img": "7.jpg",
+    "category": "TV and Audio",
+    "brand": "brand-03",
+    "size": [],
+    "color": [],
+    "price": 500.00,
+    "net": 500.00,
+    "discount": 0,
+    "type": {
+      "new": true,
+      "bs": false
+    },
+    "details": [
+      { "id": 1, "point": "Matagal na nating alam na nakukuha ang atensyon ng nagbabasa 01" },
+      { "id": 2, "point": "Matagal na nating alam na nakukuha ang atensyon ng nagbabasa 02" },
+      { "id": 3, "point": "Matagal na nating alam na nakukuha ang atensyon ng nagbabasa 03" },
+      { "id": 4, "point": "Matagal na nating alam na nakukuha ang atensyon ng nagbabasa 04" },
+      { "id": 5, "point": "Matagal na nating alam na nakukuha ang atensyon ng nagbabasa 05" },
+      { "id": 6, "point": "Matagal na nating alam na nakukuha ang atensyon ng nagbabasa 06" },
+      { "id": 7, "point": "Matagal na nating alam na nakukuha ang atensyon ng nagbabasa 07" },
+      { "id": 8, "point": "Matagal na nating alam na nakukuha ang atensyon ng nagbabasa 08" }
+    ],
+    "inStock": true,
+    "vendorId": "63b5543d22f54a6c7afdfe50"
+  }
+]
