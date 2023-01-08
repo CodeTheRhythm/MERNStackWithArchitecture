@@ -1,0 +1,8 @@
+PUT http://localhost:5000/api/users/63aeab363cad4f1048dbb20e
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzYWVhYWNiOTA4MTVmN2NhYWQ3MDY0NSIsInVzZXJuYW1lIjoiYWRtaW4iLCJlbWFpbCI6ImFkbWluQGdtYWlsLmNvbSIsImlzQWRtaW4iOnRydWUsImlzU3VwZXIiOnRydWUsImlhdCI6MTY3MjM5MjMwNCwiZXhwIjoxNjcyNDc4NzA0fQ.KYF_tjOAu4gi6Ia3kZwOJz42xy_0qXQbKG8YLRQD2e8
+
+{
+	"isActive": false, 
+	"isAdmin": false
+}
